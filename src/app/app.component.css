@@ -1,0 +1,5 @@
+button {
+  padding: initial; /* Reset to default */
+  margin: initial;
+  min-height: 24px; /* Ensure a minimum height */
+}
